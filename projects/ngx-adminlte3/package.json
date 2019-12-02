@@ -1,0 +1,29 @@
+{
+    "name": "ngx-adminlte3",
+    "version": "0.0.2",
+    "homepage": "https://github.com/minhnc3012/ngx-adminlte3.git#README.MD",
+    "author": {
+        "name": "Minh.Nguyen",
+        "email": "minhnc3012@gmail.com"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/minhnc3012/ngx-adminlte3.git"
+    },
+    "keywords": [
+        "angular",
+        "angular 2",
+        "angular 4",
+        "angular 5",
+        "angular 6",
+        "angular 7",
+        "angular 8",
+        "typescript",
+        "admin-lte"
+    ],
+    "peerDependencies": {
+        "@angular/common": "^8.2.14",
+        "@angular/core": "^8.2.14"
+    }
+}
